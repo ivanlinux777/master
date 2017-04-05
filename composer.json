@@ -1,0 +1,13 @@
+{
+    "name": "user/ivan",
+    "description": "test project",
+    "require": {
+        "components/jquery": "*"
+    },
+    "authors": [
+        {
+            "name": "author ivan",
+            "email": "111@ya.ru"
+        }
+    ]
+}
